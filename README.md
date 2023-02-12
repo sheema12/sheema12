@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 # LeetCode Progress
 ![](https://leetcard.jacoblin.cool/SheemaZainabMI?ext=activity&theme=dark)
 
-# GeeksForGeeks Progress
-[![sruthi geeksforgeeks progress](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sheemazainab01)](https://auth.geeksforgeeks.org/user/sheemazainab01)
